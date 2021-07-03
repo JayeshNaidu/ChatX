@@ -1,0 +1,125 @@
+body{
+ background-repeat: no-repeat;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.firstdiv{
+  background-image: url('lap.jpg');
+  width: auto;
+  height: 1080px
+
+
+
+
+}
+
+.start{
+  text-align: center;
+  padding-top: 20%;
+  color: white;
+  font-size: 7rem;
+}
+
+.butt{
+  margin: 1% 1%;
+}
+
+
+.seconddiv{
+  padding-bottom: 5%;
+
+
+
+}
+.sechead{
+  font-size: 4rem;
+  padding: 5%;
+
+
+}
+
+.features{
+  padding-top: 20%;
+
+  font-size: 1.5rem;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+
+.uf{
+  color: green;
+}
+
+.chat{
+  color: grey;
+}
+.ui{
+  color: violet;
+}
+
+
+.thirddiv{
+  background-color: #040d21;
+color: white;
+  padding-bottom: 5%;
+}
+
+.thirdhead{
+
+  font-size: 4rem;
+  padding: 5%;
+}
+
+.thirdpara{
+  padding-left: 25%;
+  padding-right: 25%;
+  line-height: 3rem;
+
+}
+.spons{
+  color: black;
+}
+.sponshead{
+  padding: 5%;
+  font-size: 3rem;
+}
+
+.php{
+  color: purple;
+}
+
+.db{
+  color: red;
+}
+
+.html{
+  color: blue;
+}
+
+.css{
+  color: green;
+}
+
+
+.footer{
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  margin-top: 10%;
+  padding-top: 10%;
+  background-color: #040d21;
+  color: #367588 ;
+  font-size: 1rem;
+}
+.footerhead{
+  font-size: 1rem;
+}
+.footericon{
+
+  padding: 1%;
+}
